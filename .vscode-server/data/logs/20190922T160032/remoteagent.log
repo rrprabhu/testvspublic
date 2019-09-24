@@ -1,0 +1,29 @@
+[2019-09-22 16:00:32.633] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2019-09-22 16:00:32.633] [remoteagent] [info] Extension host agent listening on 44365
+[2019-09-22 16:00:32.883] [remoteagent] [info] ==> Received a management connection
+[2019-09-22 16:00:32.895] [remoteagent] [info] Scanning extensions using UI language: en
+[2019-09-22 16:00:32.902] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-22 16:00:32.902] [remoteagent] [info] ==> Using UI language: en
+[2019-09-22 16:20:59.130] [remoteagent] [info] ==> Received a management connection
+[2019-09-22 16:20:59.131] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-22 16:20:59.131] [remoteagent] [info] ==> Using UI language: en
+[2019-09-22 16:20:59.144] [remoteagent] [info] Scanning extensions using UI language: en
+[2019-09-22 18:21:11.559] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-22 18:21:11.559] [remoteagent] [info] ==> Using UI language: en
+[2019-09-22 18:21:11.559] [remoteagent] [info] ==> Received a management connection
+[2019-09-22 18:21:11.571] [remoteagent] [info] Scanning extensions using UI language: en
+[2019-09-23 19:44:41.250] [remoteagent] [info] ==> Received a management connection
+[2019-09-23 19:44:41.255] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-23 19:44:41.256] [remoteagent] [info] ==> Using UI language: en
+[2019-09-23 19:44:41.794] [remoteagent] [info] ==> Received a management connection
+[2019-09-23 19:44:47.408] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-23 19:44:47.408] [remoteagent] [info] ==> Using UI language: en

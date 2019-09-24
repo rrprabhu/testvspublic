@@ -1,0 +1,63 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rrprabhu/cpfall2019combined/lab_exercises
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rrprabhu/cpfall2019combined/lab_exercises/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rrprabhu/cpfall2019combined/lab_exercises/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:594546)
+	at T.updateTransientWatchers (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:98272)
+	at u.fire (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/out/vs/server/remoteExtensionHostProcess.js:50:227)
+	at k.updateModelState (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:116148)
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :1-image_processing/image_processing.ipynb
+> git show :1-image_processing/image_processing.py
+> git ls-files --stage -- 1-image_processing/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rrprabhu/cpfall2019combined/lab_exercises/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rrprabhu/cpfall2019combined/lab_exercises/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:594546)
+	at T.updateTransientWatchers (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:98272)
+	at u.fire (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/out/vs/server/remoteExtensionHostProcess.js:50:227)
+	at k.updateModelState (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:116148)
+> git show :1-image_processing/image_processing.ipynb
+> git show :1-image_processing/image_processing.py
+> git ls-files --stage -- 1-image_processing/
+> git show :1-image_processing/image_processing.ipynb
+> git show :1-image_processing/image_processing.ipynb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rrprabhu/cpfall2019combined/lab_exercises/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rrprabhu/cpfall2019combined/lab_exercises/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:594546)
+	at T.updateTransientWatchers (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:98272)
+	at u.fire (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/out/vs/server/remoteExtensionHostProcess.js:50:227)
+	at k.updateModelState (/home/rrprabhu/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/extensions/git/dist/main.js:1:116148)
+> git check-ignore -v -z --stdin

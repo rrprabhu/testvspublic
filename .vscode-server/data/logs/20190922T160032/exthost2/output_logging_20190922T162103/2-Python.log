@@ -1,0 +1,132 @@
+User belongs to experiment group 'ShowPlayIcon - control'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - enabled'
+> pyenv root
+> python3.7 -c "import sys;print(sys.executable)"
+> python3.6 -c "import sys;print(sys.executable)"
+> python3 -c "import sys;print(sys.executable)"
+> python2 -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> /opt/anaconda3/envs/CS6475/bin/python -c "import sys;print(sys.executable)"
+> C:\Users\shivani\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\rrprabhu\.conda\envs\ml4t\bin\python info --json
+Starting Jedi Python language engine.
+> C:\Users\shivani\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\rrprabhu\.conda\envs\ml4t\bin\python env list
+> C:\Users\shivani\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\rrprabhu\.conda\envs\ml4t\bin\python info --json
+> C:\Users\shivani\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\rrprabhu\.conda\envs\ml4t\bin\python --version
+> /opt/anaconda3/envs/CS6475/bin/python ~/.vscode-server/extensions/ms-python.python-2019.9.34911/pythonFiles/interpreterInfo.py
+> /opt/anaconda3/envs/CS6475/bin/python ~/.vscode-server/extensions/ms-python.python-2019.9.34911/pythonFiles/interpreterInfo.py
+> /opt/anaconda3/envs/CS6475/bin/python -m pip --version
+> C:\Users\shivani\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\rrprabhu\.conda\envs\ml4t\bin\python env list
+> /opt/anaconda3/envs/CS6475/bin/python -m jupyter nbconvert --version
+> /opt/anaconda3/envs/CS6475/bin/python -m jupyter nbconvert --version
+> /opt/anaconda3/envs/CS6475/bin/python -m jupyter nbconvert ~/cpfall2019combined/lab_exercises/1-image_processing/image_processing.ipynb --to python --stdout --template /tmp/tmp-5231jaT0GG7r7n5u.tpl
+> /opt/anaconda3/envs/CS6475/bin/python -m jupyter nbconvert ~/cpfall2019combined/lab_exercises/1-image_processing/image_processing.ipynb --to python --stdout --template /tmp/tmp-5231jaT0GG7r7n5u.tpl
+> /opt/anaconda3/envs/CS6475/bin/python -m pylint --disable=all --enable=F,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,unused-wildcard-import,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode,E0001,E0011,E0012,E0100,E0101,E0102,E0103,E0104,E0105,E0107,E0108,E0110,E0111,E0112,E0113,E0114,E0115,E0116,E0117,E0118,E0202,E0203,E0211,E0213,E0236,E0237,E0238,E0239,E0240,E0241,E0301,E0302,E0303,E0401,E0402,E0601,E0602,E0603,E0604,E0611,E0632,E0633,E0701,E0702,E0703,E0704,E0710,E0711,E0712,E1003,E1101,E1102,E1111,E1120,E1121,E1123,E1124,E1125,E1126,E1127,E1128,E1129,E1130,E1131,E1132,E1133,E1134,E1135,E1136,E1137,E1138,E1139,E1200,E1201,E1205,E1206,E1300,E1301,E1302,E1303,E1304,E1305,E1306,E1310,E1700,E1701 --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/cpfall2019combined/lab_exercises/1-image_processing/image_processing.py
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -m pylint --disable=all --enable=F,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,unused-wildcard-import,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode,E0001,E0011,E0012,E0100,E0101,E0102,E0103,E0104,E0105,E0107,E0108,E0110,E0111,E0112,E0113,E0114,E0115,E0116,E0117,E0118,E0202,E0203,E0211,E0213,E0236,E0237,E0238,E0239,E0240,E0241,E0301,E0302,E0303,E0401,E0402,E0601,E0602,E0603,E0604,E0611,E0632,E0633,E0701,E0702,E0703,E0704,E0710,E0711,E0712,E1003,E1101,E1102,E1111,E1120,E1121,E1123,E1124,E1125,E1126,E1127,E1128,E1129,E1130,E1131,E1132,E1133,E1134,E1135,E1136,E1137,E1138,E1139,E1200,E1201,E1205,E1206,E1300,E1301,E1302,E1303,E1304,E1305,E1306,E1310,E1700,E1701 --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/cpfall2019combined/lab_exercises/1-image_processing/image_processing.py
+cwd: ~/cpfall2019combined/lab_exercises
+##########Linting Output - pylint##########
+> /opt/anaconda3/envs/CS6475/bin/python -m pylint --disable=all --enable=F,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,unused-wildcard-import,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode,E0001,E0011,E0012,E0100,E0101,E0102,E0103,E0104,E0105,E0107,E0108,E0110,E0111,E0112,E0113,E0114,E0115,E0116,E0117,E0118,E0202,E0203,E0211,E0213,E0236,E0237,E0238,E0239,E0240,E0241,E0301,E0302,E0303,E0401,E0402,E0601,E0602,E0603,E0604,E0611,E0632,E0633,E0701,E0702,E0703,E0704,E0710,E0711,E0712,E1003,E1101,E1102,E1111,E1120,E1121,E1123,E1124,E1125,E1126,E1127,E1128,E1129,E1130,E1131,E1132,E1133,E1134,E1135,E1136,E1137,E1138,E1139,E1200,E1201,E1205,E1206,E1300,E1301,E1302,E1303,E1304,E1305,E1306,E1310,E1700,E1701 --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/cpfall2019combined/lab_exercises/1-image_processing/image_processing.py
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -m pylint --disable=all --enable=F,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,unused-wildcard-import,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode,E0001,E0011,E0012,E0100,E0101,E0102,E0103,E0104,E0105,E0107,E0108,E0110,E0111,E0112,E0113,E0114,E0115,E0116,E0117,E0118,E0202,E0203,E0211,E0213,E0236,E0237,E0238,E0239,E0240,E0241,E0301,E0302,E0303,E0401,E0402,E0601,E0602,E0603,E0604,E0611,E0632,E0633,E0701,E0702,E0703,E0704,E0710,E0711,E0712,E1003,E1101,E1102,E1111,E1120,E1121,E1123,E1124,E1125,E1126,E1127,E1128,E1129,E1130,E1131,E1132,E1133,E1134,E1135,E1136,E1137,E1138,E1139,E1200,E1201,E1205,E1206,E1300,E1301,E1302,E1303,E1304,E1305,E1306,E1310,E1700,E1701 --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/cpfall2019combined/lab_exercises/1-image_processing/image_processing.py
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -c "import sys;print(sys.prefix)"
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -c "import sys;print(sys.prefix)"
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -c "import sys;print(sys.executable)"
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -c "import sys;print(sys.executable)"
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -m site --user-site
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python -m site --user-site
+cwd: ~/cpfall2019combined/lab_exercises
+> /opt/anaconda3/envs/CS6475/bin/python completion.py
+cwd: ~/.vscode-server/extensions/ms-python.python-2019.9.34911/pythonFiles
+> /opt/anaconda3/envs/CS6475/bin/python completion.py
+cwd: ~/.vscode-server/extensions/ms-python.python-2019.9.34911/pythonFiles
+##########Linting Output - pylint##########
+************* Module image_processing
+59,0,warning,unnecessary-semicolon:Unnecessary semicolon
+68,0,warning,unnecessary-semicolon:Unnecessary semicolon
+78,0,warning,unnecessary-semicolon:Unnecessary semicolon
+79,0,warning,unnecessary-semicolon:Unnecessary semicolon
+80,0,warning,unnecessary-semicolon:Unnecessary semicolon
+94,0,warning,unnecessary-semicolon:Unnecessary semicolon
+314,0,warning,unnecessary-semicolon:Unnecessary semicolon
+315,0,warning,unnecessary-semicolon:Unnecessary semicolon
+316,0,warning,unnecessary-semicolon:Unnecessary semicolon
+334,0,warning,unnecessary-semicolon:Unnecessary semicolon
+335,0,warning,unnecessary-semicolon:Unnecessary semicolon
+336,0,warning,unnecessary-semicolon:Unnecessary semicolon
+356,0,warning,unnecessary-semicolon:Unnecessary semicolon
+357,0,warning,unnecessary-semicolon:Unnecessary semicolon
+358,0,warning,unnecessary-semicolon:Unnecessary semicolon
+359,0,warning,unnecessary-semicolon:Unnecessary semicolon
+360,0,warning,unnecessary-semicolon:Unnecessary semicolon
+372,0,warning,unnecessary-semicolon:Unnecessary semicolon
+373,0,warning,unnecessary-semicolon:Unnecessary semicolon
+374,0,warning,unnecessary-semicolon:Unnecessary semicolon
+375,0,warning,unnecessary-semicolon:Unnecessary semicolon
+389,0,warning,unnecessary-semicolon:Unnecessary semicolon
+390,0,warning,unnecessary-semicolon:Unnecessary semicolon
+391,0,warning,unnecessary-semicolon:Unnecessary semicolon
+392,0,warning,unnecessary-semicolon:Unnecessary semicolon
+393,0,warning,unnecessary-semicolon:Unnecessary semicolon
+408,0,warning,unnecessary-semicolon:Unnecessary semicolon
+409,0,warning,unnecessary-semicolon:Unnecessary semicolon
+410,0,warning,unnecessary-semicolon:Unnecessary semicolon
+411,0,warning,unnecessary-semicolon:Unnecessary semicolon
+419,0,warning,unnecessary-semicolon:Unnecessary semicolon
+420,0,warning,unnecessary-semicolon:Unnecessary semicolon
+421,0,warning,unnecessary-semicolon:Unnecessary semicolon
+422,0,warning,unnecessary-semicolon:Unnecessary semicolon
+431,0,warning,unnecessary-semicolon:Unnecessary semicolon
+432,0,warning,unnecessary-semicolon:Unnecessary semicolon
+433,0,warning,unnecessary-semicolon:Unnecessary semicolon
+434,0,warning,unnecessary-semicolon:Unnecessary semicolon
+463,0,warning,unnecessary-semicolon:Unnecessary semicolon
+464,0,warning,unnecessary-semicolon:Unnecessary semicolon
+465,0,warning,unnecessary-semicolon:Unnecessary semicolon
+466,0,warning,unnecessary-semicolon:Unnecessary semicolon
+467,0,warning,unnecessary-semicolon:Unnecessary semicolon
+58,11,error,no-member:Module 'cv2' has no 'imread' member
+58,37,error,no-member:Module 'cv2' has no 'IMREAD_GRAYSCALE' member
+67,12,error,no-member:Module 'cv2' has no 'imread' member
+67,38,error,no-member:Module 'cv2' has no 'IMREAD_COLOR' member
+106,0,error,no-member:Module 'cv2' has no 'imwrite' member
+107,0,error,no-member:Module 'cv2' has no 'imwrite' member
+108,0,error,no-member:Module 'cv2' has no 'imwrite' member
+123,6,error,no-member:Module 'cv2' has no 'imread' member
+123,32,error,no-member:Module 'cv2' has no 'IMREAD_GRAYSCALE' member
+299,12,error,no-member:Module 'cv2' has no 'imread' member
+299,38,error,no-member:Module 'cv2' has no 'IMREAD_COLOR' member
+348,6,error,no-member:Module 'cv2' has no 'imread' member
+348,32,error,no-member:Module 'cv2' has no 'IMREAD_GRAYSCALE' member
+371,10,error,no-member:Module 'cv2' has no 'resize' member
+387,9,error,no-member:Module 'cv2' has no 'GaussianBlur' member
+388,13,error,no-member:Module 'cv2' has no 'resize' member
+388,64,error,no-member:Module 'cv2' has no 'INTER_AREA' member
+429,5,error,no-member:Module 'cv2' has no 'Sobel' member
+429,20,error,no-member:Module 'cv2' has no 'CV_64F' member
+430,5,error,no-member:Module 'cv2' has no 'Sobel' member
+430,20,error,no-member:Module 'cv2' has no 'CV_64F' member
+450,7,error,no-member:Module 'cv2' has no 'getGaussianKernel' member
+452,0,error,no-member:Module 'cv2' has no 'normalize' member
+452,77,error,no-member:Module 'cv2' has no 'NORM_MINMAX' member
+456,7,error,no-member:Module 'cv2' has no 'copyMakeBorder' member
+456,54,error,no-member:Module 'cv2' has no 'BORDER_CONSTANT' member
+459,10,error,no-member:Module 'cv2' has no 'copyMakeBorder' member
+459,57,error,no-member:Module 'cv2' has no 'BORDER_CONSTANT' member
+460,10,error,no-member:Module 'cv2' has no 'copyMakeBorder' member
+460,57,error,no-member:Module 'cv2' has no 'BORDER_REFLECT' member
+461,13,error,no-member:Module 'cv2' has no 'copyMakeBorder' member
+461,60,error,no-member:Module 'cv2' has no 'BORDER_REFLECT_101' member
+
+------------------------------------------------------------------
+Your code has been rated at 1.54/10 (previous run: 1.54/10, +0.00)
+

@@ -1,0 +1,20 @@
+[2019-09-02 15:31:46.567] [exthost] [info] extension host started
+[2019-09-02 15:31:46.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-02 15:31:46.741] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/configuration-editing/dist/extension
+[2019-09-02 15:31:46.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-02 15:31:46.750] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/extension-editing/dist/extension
+[2019-09-02 15:31:46.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-02 15:31:46.773] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/json-language-features/client/dist/jsonMain
+[2019-09-02 15:31:46.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-09-02 15:31:46.821] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/npm/dist/main
+[2019-09-02 15:31:46.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-09-02 15:31:46.836] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/typescript-language-features/dist/extension
+[2019-09-02 15:31:46.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-02 15:31:46.874] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/debug-auto-launch/dist/extension
+[2019-09-02 15:31:46.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-02 15:31:46.876] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/emmet/dist/extension
+[2019-09-02 15:31:46.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-02 15:31:46.910] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/git/dist/main
+[2019-09-02 15:31:46.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-02 15:31:46.979] [exthost] [info] ExtensionService#loadCommonJSModule /home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/merge-conflict/dist/extension
+[2019-09-02 15:31:46.991] [exthost] [info] eager extensions activated

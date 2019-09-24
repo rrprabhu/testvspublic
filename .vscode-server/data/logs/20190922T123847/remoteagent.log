@@ -1,0 +1,23 @@
+[2019-09-22 12:38:47.228] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2019-09-22 12:38:47.228] [remoteagent] [info] Extension host agent listening on 45111
+[2019-09-22 12:38:47.347] [remoteagent] [info] ==> Received a management connection
+[2019-09-22 12:38:47.348] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-22 12:38:47.348] [remoteagent] [info] ==> Using UI language: en
+[2019-09-22 12:38:47.365] [remoteagent] [info] Scanning extensions using UI language: en
+[2019-09-22 12:39:19.320] [remoteagent] [info] Installing extension: ms-python.python
+[2019-09-22 12:39:25.123] [remoteagent] [info] Downloaded extension: ms-python.python /tmp/dd8607d1-8ec4-41d6-a181-c3a9746d7bae
+[2019-09-22 12:39:28.224] [remoteagent] [info] Extracted extension to /home/rrprabhu/.vscode-server/extensions/.ms-python.python-2019.9.34911: ms-python.python
+[2019-09-22 12:39:28.225] [remoteagent] [info] Renamed to /home/rrprabhu/.vscode-server/extensions/ms-python.python-2019.9.34911
+[2019-09-22 12:39:28.237] [remoteagent] [info] Installation completed. ms-python.python
+[2019-09-22 12:39:28.262] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2019-09-22 12:40:13.125] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2019-09-22 12:45:13.229] [remoteagent] [info] Last EH closed, shutting down

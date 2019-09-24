@@ -1,0 +1,17 @@
+[2019-09-22 12:40:29.009] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2019-09-22 12:40:29.009] [remoteagent] [info] Extension host agent listening on 38771
+[2019-09-22 12:40:29.278] [remoteagent] [info] ==> Received a management connection
+[2019-09-22 12:40:29.279] [remoteagent] [info] ==> Received an extension host connection.
+[2019-09-22 12:40:29.279] [remoteagent] [info] ==> Using UI language: en
+[2019-09-22 12:40:29.295] [remoteagent] [info] Scanning extensions using UI language: en
+[2019-09-22 12:47:46.877] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2019-09-22 12:52:46.979] [remoteagent] [info] Last EH closed, shutting down

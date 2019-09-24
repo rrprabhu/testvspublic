@@ -1,0 +1,22 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rrprabhu/ml4t_example/access_leaner-Machine-learning-for-trading
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rrprabhu/ml4t_example/access_leaner-Machine-learning-for-trading/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rrprabhu/ml4t_example/access_leaner-Machine-learning-for-trading/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/git/dist/main.js:1:6857)
+	at E.updateTransientWatchers (/home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/git/dist/main.js:1:97370)
+	at u.fire (/home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/out/vs/server/remoteExtensionHostProcess.js:50:227)
+	at T.updateModelState (/home/rrprabhu/.vscode-server/bin/f06011ac164ae4dc8e753a3fe7f9549844d15e35/extensions/git/dist/main.js:1:114750)
+> git check-ignore -v -z --stdin
